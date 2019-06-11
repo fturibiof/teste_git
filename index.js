@@ -1,2 +1,2 @@
-console.log('Fala Mundão');
-let variavel = undefined;
+let variavel = 'Fala Mundão';
+console.log(variavel);
