@@ -1,2 +1,2 @@
-let variavel = 'Fala Mundão!';
+let variavel = 'Fala Mundão';
 console.log(variavel);
